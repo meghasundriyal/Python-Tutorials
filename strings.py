@@ -19,3 +19,5 @@ print("split : ",a.split("!"))
 print("Hello, world")
 print("Helllo","world")
 print("Hello"+"world")
+
+print(a.find("S"))
