@@ -13,5 +13,5 @@ print("x == z : ", x==z)
 print("x < y : ", x<y)
 print("x <= y : ", x<=y)
 
-print("x<y and x<z : ", x<y and x<z)      # x<y(False) and x<z(True) : False
+print("x<y and x<z : ", x<y and x<z)    # x<y(False) and x<z(True) : False
 print("x<y or x<z : ", x<y or x<z)      # x<y(False) or x<z(True) : True
